@@ -1,6 +1,4 @@
-## Eae bro, belê?  Pedrinho aqui! 
-
- Meu conhecimento é voltado para desenvolvimento Web e atualmente estou me aperfeiçoando em **JavaScript** e **TypeScript** 😅
+## Eae, belê? Pedrinho aqui! 🤓
 
 #### Linguagens/Ferramentas  
 
