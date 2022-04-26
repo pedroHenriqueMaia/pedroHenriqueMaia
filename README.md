@@ -3,9 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/pedro-maia-99629a1b5/)](https://www.linkedin.com/in/pedro-maia-99629a1b5/)
 <br>
 
-- 👨‍💻 I am professional experience as a fullstack using JavaScript and TypeScript for web application development.
-- 🚀 I am currently studying Clud Computing.
-- 🎯 I am also researching topics related to UX/UI, unit/integration testing and good development practices.
+ - 👨‍💻 I am an experienced fullstack professional using JavaScript and TypeScript for web application development.
+ - 🚀 I am currently studying Cloud Computing.
+ - 🎯 I am also researching topics related to UX/UI, unit/integration testing and good development practices.
  <hr>
 
 <div align="center">
