@@ -4,7 +4,6 @@
 <br>
 
  - 👨‍💻 I am an experienced fullstack professional using JavaScript and TypeScript for web application development.
- - 🚀 I am currently studying Cloud Computing.
  - 🎯 I am also researching topics related to UX/UI, unit/integration testing and good development practices.
  <hr>
 
