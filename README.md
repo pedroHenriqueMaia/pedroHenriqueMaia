@@ -5,8 +5,17 @@
 
  - 👨‍💻 I am an experienced fullstack professional using JavaScript and TypeScript for web application development.
  - 🎯 I am also researching topics related to UX/UI, unit/integration testing and good development practices.
-<hr>
+ 
+  <hr>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroHenriqueMaia&layout=compact&langs_count=8&theme=dark"/>  
+  <a href="https://github.com/pedroHenriqueMaia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroHenriqueMaia&show_icons=true&theme=dark"/>
+</div>
+
+ 
+<hr>
 <div align="center" style="display: inline_block; margin-left:10px;"><br>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
