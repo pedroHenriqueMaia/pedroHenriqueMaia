@@ -1,6 +1,6 @@
 ## Welcome, What's up! 🤓
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pedroHenriqueMaia/portifolio)](https://github.com/pedroHenriqueMaia/portifolio)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[https://www.linkedin.com/in/pedro-maia-99629a1b5/)](https://www.linkedin.com/in/pedro-maia-99629a1b5/](https://www.linkedin.com/in/pedro-henrique-maia-99629a1b5/))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-maia-99629a1b5/)](https://www.linkedin.com/in/pedro-henrique-maia-99629a1b5/)
 <br>
 
  - 👨‍💻 I am an experienced fullstack professional using JavaScript and TypeScript for web application development.
